@@ -1,6 +1,6 @@
 **Deployed Site**: [NO DEPLOYED SITE YET!](http://localhost:3000)
 
-# UnEmployed at Home 🏠
+# UnEmployed @ Home 🏠
 
 A home-page for UnEmployed people like yourself.<br />
 **Get a job ya Bum!!!**
@@ -24,8 +24,8 @@ A home-page for UnEmployed people like yourself.<br />
 ## To-Do's
 
 - [x] Create Google Search
-- [ ] Learn Local Storage / Firebase; Decide on both or either
-- [ ] Implement Firebase / Local Storage
+- [x] Learn Local Storage
+- [ ] Implement Local Storage
 - [ ] Indeed Scraper
 - [ ] Dice Scraper
 - [ ] Style / Layout
